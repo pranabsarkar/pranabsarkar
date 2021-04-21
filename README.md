@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - - 💬 Ask me about ...
 -->
 
-- 🔭 I’m currently working for Tata Consultancy Services.
-- ⚡ I’m currently using Python and AWS Serverless Application Model in my job.
-- 😄 I’m looking to collaborate on Exciting Projects.
+- 🔭 I’m currently working for Tata Consultancy Services
+- ⚡ I’m currently using Python and AWS Serverless Application Model in my job
+- 😄 I’m looking to collaborate on Exciting Projects
 - 📫 How to reach me: (91)-7001029414
 
