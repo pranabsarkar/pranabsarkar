@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working at Amazon
-<!-- - 📫 How to reach me: (91)-7001029414 -->
+- 📫 How to reach me: (91)-7001029414
 
