@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - - 💬 Ask me about ...
 -->
 
-- 🔭 I’m currently working at Cisco
-- ⚡ I’m currently using Python and AWS Serverless Application Model in my daily job✨
+- 🔭 I’m currently working at Amazon
 <!-- - 📫 How to reach me: (91)-7001029414 -->
 
